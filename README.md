@@ -1,2 +1,2 @@
-# OrantCharitiesAfrica
-Redesign Concept for the charity Orant Charities Africa.
+# Orant Charities Africa
+Redesign concept for Orant Charities Africa.
